@@ -1,0 +1,10 @@
+Name: Hypertension (High Blood Pressure)
+Symptoms: Headaches, dizziness, blurred vision, often asymptomatic.
+Causes: Stress, high salt intake, obesity, smoking, genetics.
+Prevention: Low-sodium diet, stress management, regular exercise, avoiding tobacco.
+Treatment: ACE inhibitors, beta blockers, diuretics, lifestyle changes.
+Diagnosis: Regular blood pressure measurements.
+Complications: Heart attack, stroke, kidney damage.
+Contagious: No
+Affected Population: Adults, especially over 40 years old.
+Type: Chronic

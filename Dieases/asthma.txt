@@ -1,0 +1,10 @@
+Name: Asthma
+Symptoms: Wheezing, shortness of breath, chest tightness, coughing.
+Causes: Allergies, pollution, respiratory infections, exercise triggers.
+Prevention: Avoid allergens, manage triggers, use preventive inhalers.
+Treatment: Inhaled corticosteroids, bronchodilators.
+Diagnosis: Spirometry test, symptom assessment.
+Complications: Frequent hospitalizations, reduced lung function.
+Contagious: No
+Affected Population: Children and adults with allergies or family history.
+Type: Chronic

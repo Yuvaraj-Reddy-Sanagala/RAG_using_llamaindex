@@ -1,0 +1,10 @@
+Name: Migraine
+Symptoms: Severe headache (often one-sided), nausea, sensitivity to light and sound, visual auras.
+Causes: Stress, hormonal changes, certain foods, lack of sleep, genetics.
+Prevention: Avoiding triggers, stress management, regular sleep patterns.
+Treatment: Pain relievers, triptans, anti-nausea drugs, preventive medications.
+Diagnosis: Clinical evaluation, patient history.
+Complications: Chronic migraine, medication overuse headache.
+Contagious: No
+Affected Population: Teens and adults, especially women.
+Type: Chronic

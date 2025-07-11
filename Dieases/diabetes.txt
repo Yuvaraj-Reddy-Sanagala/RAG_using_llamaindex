@@ -1,0 +1,10 @@
+Name: Diabetes (Type 2)
+Symptoms: Frequent urination, excessive thirst, fatigue, blurred vision, slow wound healing.
+Causes: Obesity, sedentary lifestyle, high sugar diet, genetics, age over 45.
+Prevention: Healthy diet, regular exercise, weight control, routine screening.
+Treatment: Metformin, insulin (if needed), lifestyle changes.
+Diagnosis: Blood glucose tests, HbA1c test.
+Complications: Heart disease, kidney failure, blindness, nerve damage.
+Contagious: No
+Affected Population: Adults, especially overweight or with family history.
+Type: Chronic

@@ -1,0 +1,10 @@
+Name: Influenza (Flu)
+Symptoms: Fever, chills, body aches, sore throat, cough.
+Causes: Infection by influenza virus spread through droplets.
+Prevention: Annual flu vaccine, hand hygiene.
+Treatment: Antiviral drugs, rest, fluids.
+Diagnosis: Rapid flu test, clinical symptoms.
+Complications: Pneumonia, hospitalization, death in severe cases.
+Contagious: Yes
+Affected Population: All ages, especially elderly and immunocompromised.
+Type: Acute

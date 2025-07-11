@@ -1,0 +1,10 @@
+Name: Anemia (Iron Deficiency)
+Symptoms: Fatigue, weakness, pale skin, dizziness, cold hands and feet.
+Causes: Low iron intake, blood loss, poor absorption, pregnancy.
+Prevention: Iron-rich diet, iron supplements if needed.
+Treatment: Iron supplements, dietary changes, treating underlying cause.
+Diagnosis: Blood tests (CBC, iron studies).
+Complications: Heart problems, complications in pregnancy, developmental delays in children.
+Contagious: No
+Affected Population: Women, children, people with poor diets.
+Type: Chronic

@@ -1,0 +1,10 @@
+Name: Tuberculosis (TB)
+Symptoms: Persistent cough, weight loss, night sweats, fever, chest pain.
+Causes: Infection with Mycobacterium tuberculosis, airborne transmission.
+Prevention: BCG vaccine, avoiding close contact with infected individuals, good ventilation.
+Treatment: Antibiotics such as isoniazid and rifampicin taken over several months.
+Diagnosis: Chest X-ray, sputum test, TB skin test.
+Complications: Lung damage, spread to other organs, drug-resistant TB.
+Contagious: Yes
+Affected Population: People in crowded living conditions, immunocompromised individuals.
+Type: Chronic
