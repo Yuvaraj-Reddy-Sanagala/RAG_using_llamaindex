@@ -14,7 +14,7 @@ This repository demonstrates how to build a Retrieval-Augmented Generation (RAG)
 
 ```
 RAG_using_llamaindex/
-├── data/                     # Text documents for indexing
+├── Dieases/                     # Text documents for indexing
 ├── RAG.ipynb                 # Jupyter notebook to run RAG system
 ├── rag_venv_setup.ps1        # PowerShell script to set up virtual environment
 ├── requirements.txt          # Python dependencies
