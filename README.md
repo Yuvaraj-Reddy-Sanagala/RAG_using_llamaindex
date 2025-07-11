@@ -87,10 +87,6 @@ Frequent urination, excessive thirst, fatigue, blurred vision, and slow wound he
 
 Pull requests and suggestions are welcome. Please open an issue first if you'd like to discuss changes.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Author
 
 Yuvaraj Reddy Sanagala
